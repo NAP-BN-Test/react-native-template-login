@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.WeCare"
+        applicationId "com.TemplateLogin"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
